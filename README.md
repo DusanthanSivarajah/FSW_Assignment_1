@@ -1,5 +1,5 @@
 # FSW_Assignment_1
-FSW first assignment to use AI to create image.  
+FSW first assignment to use AI to create an image depicting myself.  
 
 Website: "https://civitai.com/"
 
